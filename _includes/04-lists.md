@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Favourite stuff?
+
+- Some books
+- Some games
+- Some food
